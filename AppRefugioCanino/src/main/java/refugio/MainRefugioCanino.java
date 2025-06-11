@@ -4,8 +4,8 @@ package refugio;
 public class MainRefugioCanino {
 
     public static void main(String[] args) {
-        
         System.out.println("Bienvenido al refugio torres");
+
         
         // Crear una instancia del refugio
         RefugioCanino refugio = new RefugioCanino();
