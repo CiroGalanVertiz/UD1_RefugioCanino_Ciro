@@ -11,7 +11,7 @@ public class MainRefugioCanino {
         RefugioCanino refugio = new RefugioCanino();
 
         // Agregar algunos perros al refugio
-        refugio.agregarPerro("Max", "Golden Retriever");
+        refugio.agregarPerro("Max", "Golden Retrieve");
         refugio.agregarPerro("Bella", "Pastor Alemán");
         refugio.agregarPerro("Coco", "Pastor Alemán");
 
